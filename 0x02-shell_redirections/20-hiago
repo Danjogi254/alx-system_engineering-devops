@@ -1,1 +1,2 @@
-Chicago
+#!/bin/bash
+tr -d "Cc"
